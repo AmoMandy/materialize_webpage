@@ -1,0 +1,67 @@
+{
+    "user": {
+        "fullName": "Amanda Gambu",
+        "photo": "./mypicture.png"
+    },
+    "city": {
+        "name": "Cape Town",
+        "photo": "./cape.png",
+        "description": "I want to visit Cape Town because of their breathtaking natural beauty centered around Table Mountain. World-class food and wine. Beautiful beaches. Historical sites like Robben Island. V&A Waterfront for shopping and dining. Cape Town is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa. It is the country's second-largest city, after Johannesburg, and the largest in the Western Cape. The city is part of the City of Cape Town metropolitan municipality."
+    },
+    "foreignLanguage": {
+        "info": "French is a Romance language of the Indo-European family. It descended from the Vulgar Latin of the Roman Empire, as did all Romance languages.",
+        "language": "Franch",
+        "phrases": [
+            {
+                "englishPhrase": "Goodmorning",
+                "foreignLanguage": "Bonjour"
+            },
+            {
+                "englishPhrase": "You are welcome",
+                "foreignLanguage": "De rien"
+            },
+            {
+                "englishPhrase": "You are Beautiful",
+                "foreignLanguage": "Tu es belle"
+            },
+            {
+                "englishPhrase": "Nice to meet you",
+                "foreignLanguage": "Ravi de vous rencontre"
+            }
+        ]
+    },
+    "mysubjects": [
+        {
+            "name": "Financial Accounting",
+            "photo": "./OIP (1).jpeg",
+            "description": "Financial accounting is a branch of accounting concerned with the summary, analysis and reporting of financial transactions related to a business.[1] This involves the preparation of financial statements available for public use. Stockholders, suppliers, banks, employees, government agencies, business owners, and other stakeholders are examples of people interested in receiving such information for decision making purposes."
+        },
+        {
+            "name": "Auditing",
+            "photo": "./R (1).jpeg",
+            "description": "Auditing typically refers to financial statement audits or an objective examination and evaluation of a company’s financial statements – usually performed by an external third party.Audit is an important term used in accounting that describes the examination and verification of a company’s financial records."
+        },
+        {
+            "name": "Taxation",
+            "photo": "./R.jpeg",
+            "description": "In the literature of public finance, taxes have been classified in various ways according to who pays for them, who bears the ultimate burden of them, the extent to which the burden can be shifted, and various other criteria. Taxes are most commonly classified as either direct or indirect, an example of the former type being the income tax and of the latter the sales tax."
+        }
+    ],
+    "HistoricalPlaces": [
+        {
+            "place": "Apartheid Museum",
+            "pic": "./picture.png",
+            "information": "Immersive Exhibits and Narrative: The Apartheid Museum offers visitors a highly immersive and thought-provoking experience through its exhibits and narrative. The museum presents the history of apartheid chronologically, from its roots in colonialism to its eventual dismantling and the dawn of democracy in South Africa."
+        },
+        {
+            "place": "Martket Theartre",
+            "pic": "./pic.png",
+            "information": "Historical Significance: The Market Theatre holds immense historical significance as it emerged during the apartheid era in South Africa. Established in 1976 by Mannie Manim and Barney Simon, it provided a platform for artists of all races to showcase their work, challenging the racial segregation policies of the time."
+        },
+        {
+            "place": "Lion Park",
+            "pic": "./mypic.png",
+            "information": "Conservation Efforts: Many lion parks play a crucial role in lion conservation efforts. With lion populations declining due to habitat loss, human-wildlife conflict, and poaching, lion parks often serve as sanctuaries or breeding centers for these animals."
+        }
+    ]
+}
