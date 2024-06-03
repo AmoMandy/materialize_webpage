@@ -22,18 +22,14 @@
     "email": "",
     "url": ""
   },
-  "contributors": [
-
-  ],
+  "contributors": [],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "test": ""
   },
   "dependencies": {
-
-  },
-  "devDependencies": {
-
+    "vite": "^5.2.12",
+    "vite-plugin-handlebars": "^2.0.0"
   }
 }
