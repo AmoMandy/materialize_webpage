@@ -1,7 +1,8 @@
 {
     "user": {
         "fullName": "Amanda Gambu",
-        "photo": "./mypicture.png"
+        "photo": "./mypicture.png" ,
+        "pic": "./cape.png"
     },
     "city": {
         "name": "Cape Town",
